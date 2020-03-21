@@ -1,0 +1,13 @@
+loading app
+loaded
+clickPackPurchase
+clickPurchaseButtonFor 120 MB JOOX Data + JOOX VIP [24 hours]
+Checking SMSes
+Success! You have subscribed to daily JOOX VIP music pack to listen to music in JOOX app.  Enjoy 120MB of JOOX data, valid till 19:19:56 of 28/01/2020. Click the link in the other SMS to get JOOX VIP.
+Checking SMSes
+Success! You have subscribed to daily JOOX VIP music pack to listen to music in JOOX app.  Enjoy 120MB of JOOX data, valid till 19:19:56 of 28/01/2020. Click the link in the other SMS to get JOOX VIP.
+Dear customer, your have received 1 chance to play Hti-Pauk in MPT4U, pls note that this chance would expire in midnight 23:59:59. Click to Play now bit.ly/PlayLuckyDraw and check if you are lucky
+Click {http://www.joox.com/mpt?token=RCK5WHE5LG4HCW3Y} to get JOOX VIP for 24 hours
+Checking SMSes
+Success! You have subscribed to daily JOOX VIP music pack to listen to music in JOOX app.  Enjoy 120MB of JOOX data, valid till 19:19:56 of 28/01/2020. Click the link in the other SMS to get JOOX VIP.
+Dear customer, your have received 1 chance to play Hti-Pauk in MPT4U, pls note that this chance would expire in midnight 23:59:59. Click to Play now bit.ly/PlayLuckyDraw and check if you are lucky
